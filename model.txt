@@ -1,0 +1,1 @@
+https://teachablemachine.withgoogle.com/models/P35_ltCri/.model.json
